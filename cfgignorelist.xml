@@ -1,0 +1,8 @@
+<ignore>
+    <type name="OffroadHatchback"/>
+    <type name="CivilianSedan"/>
+    <type name="Hatchback_02"/>
+    <type name="Sedan_02"/>
+    <type name="Truck_01_Covered"/>
+    <type name="Offroad_02"/>
+</ignore>
